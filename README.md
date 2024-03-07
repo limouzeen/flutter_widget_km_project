@@ -1,16 +1,11 @@
-# flutter_widget_km_project
+# Salomon Convex bottom bar
+Created by : Amarat Kositwongsakul
 
-A new Flutter project.
+## ScreenUI
+<img src="https://github.com/limouzeen/flutter_widget_km_project/assets/133729978/03b64142-d585-4abc-95d7-90b0f3797d47" width="125">
+<img src="https://github.com/limouzeen/flutter_widget_km_project/assets/133729978/a1d48530-1b2a-4cc2-b7e3-5ed8faf92e6d" width="125">
+<img src="https://github.com/limouzeen/flutter_widget_km_project/assets/133729978/4cec085f-22da-4687-ad10-1beb153b9f54" width="125">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
